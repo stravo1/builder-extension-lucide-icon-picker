@@ -1,6 +1,6 @@
 {
   "name": "@builder/lucide-icon-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "scripts": {

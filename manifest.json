@@ -3,7 +3,7 @@
   "name": "stravo1/lucide-icon-picker",
   "label": "Lucide icon picker",
   "description": "Insert Lucide icons.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "entry": "main.js",
   "icon": "icon.svg",
   "capabilities": ["context.read", "block.update", "ui.popover"]
